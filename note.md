@@ -25,4 +25,5 @@ Remote
 - git clone (link hướng dẫn)
 - git push -u origin {branch name} 
 - git fetch origin -> git checkout -b {branch} origin/{branch} :đẩy branch về local
+- git pull : đẩy code về
 
