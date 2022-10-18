@@ -21,4 +21,5 @@ Remote
 - git merge {branch name}: tổng hợp branch
 - git branch -d {branch name}: xoá branch
 - git push link hướng dẫn {branch name}
+- git remote add origin (link hướng dẫn)
 
