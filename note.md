@@ -22,4 +22,7 @@ Remote
 - git branch -d {branch name}: xoá branch
 - git push link hướng dẫn {branch name}
 - git remote add origin (link hướng dẫn)
+- git clone (link hướng dẫn)
+- git push -u origin {branch name} 
+- git fetch origin -> git checkout -b {branch} origin/{branch} :đẩy branch về local
 
