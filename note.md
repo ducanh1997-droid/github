@@ -2,6 +2,9 @@
 
 Repository (Rep) : dự án
 Branch: nhánh default: master
+Conflict :giải quyết xung đột
+Local
+Remote
 
 # Commands
 
@@ -15,4 +18,7 @@ Branch: nhánh default: master
 - git checkout id : quay lại lịch sử
 - git checkout (branchname vd:master)
 - git checkout -b (branchname): tạo nhánh mới
-- git merge {branch name}: gộp brand
+- git merge {branch name}: tổng hợp branch
+- git branch -d {branch name}: xoá branch
+- git push link hướng dẫn {branch name}
+
